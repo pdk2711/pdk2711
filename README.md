@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 🌐 LinkedIn: <a href = "https://www.linkedin.com/in/parul-kulkarni-6b9383286/">parul-kulkarni-6b9383286</a>
 
 > New projects and contributions coming soon. Stay tuned!
+
+⚡Fun fact: My code runs on caffeine, consistency, and an unhealthy obsession with fixing that *one* test case that breaks my entire DSA solution — at 2:47 AM.
+
