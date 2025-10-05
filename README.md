@@ -90,8 +90,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🎓 **Computer Engineering Student**
-- 🔐 Cybersecurity & Defense-Tech Enthusiast
-- 🚀 Aspiring Entrepreneur, passionate about contributing to the **Vikasit Bharat 2047 Mission of India**
+- 🚀 Passionate about contributing to the **Vikasit Bharat 2047 Mission of India**
 - 💻 Interested in tech for good, open-source, and national development
 
 ---
@@ -99,9 +98,7 @@ Here are some ideas to get you started:
 ## 🌱 Currently Learning
 
 - C++, Python, Java
-- Web Development (HTML, CSS, JavaScript)
-- Cybersecurity  
-- 🎯 Preparing for **GATE 2026** | Google Cybersecurity Certification in progress
+- Web Development (HTML, CSS, JavaScript)  
 
 ---
 
