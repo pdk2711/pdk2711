@@ -81,9 +81,10 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements
 
-- 🥇 **College Topper** [CGPA: 9.91/10]
+- 🥇 **COMPUTER DEPARTMENT TOPPER[CGPA: 9.795/10]** 
 - 🥈 **Prostart (Pre-SIH) Winner**, Software Category
-- 💼 **TEAM MANAGER @ PESMCOE ACM**
+- 💼 **TREASURER @ PESMCOE ACM**
+- 💼 **SECRETARY @ ED CELL & IIC, PESMCOE**
 
 ---
 
@@ -98,7 +99,7 @@ Here are some ideas to get you started:
 ## 🌱 Currently Learning
 
 - C++, Python, Java
-- Web Development (HTML, CSS, JavaScript)  
+- Web Development (HTML, CSS, MERN)  
 
 ---
 
